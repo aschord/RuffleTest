@@ -1,0 +1,32 @@
+{
+  "libview.firstColumnWidth": 283,
+  "expanded_nodes": [],
+  "libview.iconScale": 0,
+  "doc.openedDocs": [
+    "ui://d1cm0m1tei3a8",
+    "ui://d1cm0m1tei3aa"
+  ],
+  "auxline1": true,
+  "canvasColor": 10066329,
+  "auxline2": true,
+  "doc.activeDoc": "ui://d1cm0m1tei3aa",
+  "libview.twoColumn": false,
+  "libview.expandedNodes": [
+    "d1cm0m1t",
+    "/",
+    "d1cm0m1t",
+    "/IndexAssets/",
+    "d1cm0m1t",
+    "/IndexAssets/images/",
+    "d1cm0m1t",
+    "/IndexAssets/movies/",
+    "d1cm0m1t",
+    "/IndexAssets/sounds/"
+  ],
+  "snapToGrid": true,
+  "backgroundColor": 6710886,
+  "libview.currentGroup": "",
+  "hidden_packages": [],
+  "gridSize": 30,
+  "gridColor": 80
+}

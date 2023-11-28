@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<packageDescription id="d1cm0m1t">
+  <resources>
+    <component id="ei3a8" name="IndexUI.xml" path="/" exported="true"/>
+    <component id="ei3aa" name="科学Btn.xml" path="/IndexAssets/"/>
+    <movieclip id="ei3ab" name="科学.jta" path="/IndexAssets/movies/" atlas="alone"/>
+    <sound id="ei3ac" name="科学.mp3" path="/IndexAssets/sounds/"/>
+  </resources>
+  <publish name="UI"/>
+</packageDescription>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="800,480" opaque="false">
+  <displayList>
+    <component id="n11_mq2x" name="n11" src="ei3aa" fileName="IndexAssets/科学Btn.xml" xy="0,0">
+      <relation target="" sidePair="center-center%,middle-middle%,width-width%,height-height%"/>
+    </component>
+  </displayList>
+</component>
